@@ -102,7 +102,8 @@ private fun ForgetfulApp(storage: TaskStorage) {
         tasks.addAll(storage.applyDailyResetIfNeeded(loaded))
     }
 
-    when (screen) {
+    val currentScreen = screen
+    when (currentScreen) {
         Screen.List -> TaskListScreen(
             tasks = tasks,
             onToggle = { index, checked ->
