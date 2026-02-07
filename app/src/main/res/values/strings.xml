@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Не забудь</string>
+    <string name="add_task">+</string>
+    <string name="create">Создать</string>
+    <string name="save">Сохранить</string>
+    <string name="custom_task">Свое дело</string>
+    <string name="reset_today">Сбросить сегодня</string>
+    <string name="pick_icon">Выберите иконку</string>
+    <string name="task_name">Название</string>
+    <string name="daily_reset_hint">Статусы автоматически сбрасываются раз в сутки</string>
+</resources>
