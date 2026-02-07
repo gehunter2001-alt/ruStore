@@ -3,7 +3,7 @@
     android:height="64dp"
     android:viewportWidth="64"
     android:viewportHeight="64">
-    <!-- TODO: Replace this placeholder path with the gas icon vector path data. -->
+    <!-- TODO: Replace this placeholder path with the home icon vector path data. -->
     <path
         android:fillColor="#FFFFFFFF"
         android:pathData="M12,12h40v40h-40z" />
