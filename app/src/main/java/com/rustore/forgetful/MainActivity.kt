@@ -140,7 +140,7 @@ private fun ForgetfulApp(storage: TaskStorage) {
             }
         )
         is Screen.Edit -> {
-            val task = tasks.firstOrNull { it.id == currentScreen.taskId }
+            val task = tasks.firstOrNull { it.id == screen.taskId }
             if (task == null) {
                 screen = Screen.List
             } else {
