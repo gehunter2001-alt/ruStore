@@ -1,12 +1,10 @@
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:width="24dp"
-    android:height="24dp"
-    android:viewportWidth="24"
-    android:viewportHeight="24">
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+    <!-- TODO: Replace this placeholder path with the door icon vector path data. -->
     <path
-        android:fillColor="#6D4C41"
-        android:pathData="M6,3h12v18H6z" />
-    <path
-        android:fillColor="#D7CCC8"
-        android:pathData="M15,12a1,1 0 1,0 0.01,0" />
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M12,12h40v40h-40z" />
 </vector>

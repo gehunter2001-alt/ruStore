@@ -8,4 +8,6 @@
     <string name="pick_icon">Выберите иконку</string>
     <string name="task_name">Название</string>
     <string name="daily_reset_hint">Статусы автоматически сбрасываются раз в сутки</string>
+    <string name="delete_task">Удалить дело</string>
+    <string name="edit_task">Редактировать дело</string>
 </resources>
